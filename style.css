@@ -22,6 +22,7 @@ p {
     text-align: center;
     line-height: 1.5;
     margin: 4px;
+    max-width: 100%;
 }
 dl {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -124,6 +125,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .about {
     display: flex;
@@ -137,6 +139,7 @@ main {
 .foto {
     width: 250px;
     height: auto;
+    max-width: 100%;
 }
 .container {
     display: flex;

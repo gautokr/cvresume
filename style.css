@@ -93,7 +93,7 @@ li {
     background-size: 40px;  
 }
 .htmlfive {
-    margin: 0;
+    margin: 0 0 0 4px;
     padding: 0px 0 5px 36px;
     list-style: none;
     background-image: url("https://static.vecteezy.com/system/resources/previews/012/697/299/non_2x/stylized-3d-html-logo-design-free-png.png");
@@ -102,7 +102,7 @@ li {
     background-size: 30px;  
 }
 .css {
-    margin: 0;
+    margin: 0 0 0 4px;
     padding: 0px 0 5px 36px;
     list-style: none;
     background-image: url("https://static.vecteezy.com/system/resources/previews/011/665/094/non_2x/stylized-3d-css-icon-side-view-free-png.png");
